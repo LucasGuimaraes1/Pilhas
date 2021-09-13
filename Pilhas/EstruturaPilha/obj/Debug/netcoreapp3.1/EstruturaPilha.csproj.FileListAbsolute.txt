@@ -1,0 +1,13 @@
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\bin\Debug\netcoreapp3.1\EstruturaPilha.exe
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\bin\Debug\netcoreapp3.1\EstruturaPilha.deps.json
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\bin\Debug\netcoreapp3.1\EstruturaPilha.runtimeconfig.json
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\bin\Debug\netcoreapp3.1\EstruturaPilha.runtimeconfig.dev.json
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\bin\Debug\netcoreapp3.1\EstruturaPilha.dll
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\bin\Debug\netcoreapp3.1\EstruturaPilha.pdb
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.csprojAssemblyReference.cache
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.AssemblyInfoInputs.cache
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.AssemblyInfo.cs
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.csproj.CoreCompileInputs.cache
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.dll
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.pdb
+E:\Faculdade\2021_2\Codigo Alta performance\Aula 01\Codigo Pilha\EstruturaPilha\EstruturaPilha\obj\Debug\netcoreapp3.1\EstruturaPilha.genruntimeconfig.cache
